@@ -4,7 +4,7 @@
 
 </div>
 
-### Built With CSS and HTML
+### Built With CSS and HTML & MIT License.
 
 ## Supported Browsers
 
@@ -28,7 +28,6 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 [Discord Server](https://discord.gg/Y5ma4XUuzH)
-
 
 ## Acknowledgments 
 
